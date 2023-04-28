@@ -10,11 +10,11 @@
        after I send it to Discord and copied the message link -->
   <img align ="right" height ="160" width ="160" src ="https://media.discordapp.net/attachments/1096481399994851330/1101383239588913174/gifGithub.gif">
   <ul>
-    <li>⚔️ Started my programming journey last year</li>
     <li>👾 I'm 17 years old</li>
     <li>🌱 Currently learning C#</li>
-    <li>📒 Studying online at Alura and Academia do Programador</li>
     <li>👀 Looking for new just-for-fun projects</li>
+    <li>⚔️ Started my programming journey last year</li>
+    <li>📒 Studying online at Alura and Academia do Programador</li>
     <li>🍬 Fun fact: my favorite flavor of gum to chew while programming is watermelon</li>
   </ul>  
  </div>
@@ -36,8 +36,8 @@
   💫 Here are some of my GitHub stats <br><br>
   <!-- I got this cards in "https://github.com/anuraghazra/github-readme-stats" -->
   <a href="https://github.com/apaolaoliveira">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=apaolaoliveira&show_icons=true&theme=dracula">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apaolaoliveira&layout=compact&theme=dracula"> 
+  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=apaolaoliveira&show_icons=true&theme=dracula">
+  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apaolaoliveira&layout=compact&theme=dracula"> 
 </div>
   
 ##  
