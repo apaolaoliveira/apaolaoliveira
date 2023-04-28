@@ -36,8 +36,8 @@
   💫 Here are some of my GitHub stats <br><br>
   <!-- I got this cards in "https://github.com/anuraghazra/github-readme-stats" -->
   <a href="https://github.com/apaolaoliveira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=apaolaoliveira&show_icons=true&theme=dracula">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apaolaoliveira&layout=compact&theme=dracula"> 
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=apaolaoliveira&show_icons=true&theme=dracula">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apaolaoliveira&layout=compact&theme=dracula"> 
 </div>
   
 ##  
