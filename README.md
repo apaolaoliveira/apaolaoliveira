@@ -42,9 +42,10 @@
   <!-- Made this graph at "https://ashutosh00710.github.io/github-readme-activity-graph/" -->
   <img alt="contribution-graph" height="300" width="750" src="https://github-readme-activity-graph.cyclic.app/graph?username=apaolaoliveira&bg_color=282a36&color=ff6e96&line=ff6e96&point=f3f3ed&area=true&hide_border=true">
   <br>
-  <img alt="contribution-snake" src="https://github.com/apaolaoliveira/apaolaoliveira/blob/output/github-contribution-grid-snake.svg">
   </a>
 </div>
+
+  ![Snake animation](https://github.com/apaolaoliveira/apaolaoliveira/blob/output/github-contribution-grid-snake.svg)
   
 ##  
  
