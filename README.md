@@ -2,7 +2,7 @@
     <!-- Gif from "https://giphy.com/" -->
     <img alt="crown-giphy" width="65" src="https://media.giphy.com/media/srrh2v0IiCjNBSO88c/giphy.gif">
     <!-- I made it on https://readme-typing-svg.demolab.com/demo/ -->
-    <a href="https://git.io/typing-svg"><img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Silkscreen&duration=3000&pause=1500&color=F3BD39&width=435&lines=Hi%2C+I'm+Paola+Oliveira;Welcome+to+my+GitHub+:%29;"></a>
+    <img alt="TypingSVG-header" src="https://readme-typing-svg.demolab.com?font=Silkscreen&duration=3000&pause=1500&color=F3BD39&width=435&lines=Hi%2C+I'm+Paola+Oliveira;Welcome+to+my+GitHub+:%29;">
 </div>
 
 ##
@@ -50,6 +50,8 @@
     <!-- Made this graph at "https://ashutosh00710.github.io/github-readme-activity-graph/" -->
     <img alt="contribution-graph" height="300" width="750" src="https://github-readme-activity-graph.cyclic.app/graph?username=apaolaoliveira&bg_color=282a36&color=ff6e96&line=ff6e96&point=f3f3ed&area=true&hide_border=true">
     <br>
+    <img alt="strak-stats" height="300" width="750" src="https://github-readme-streak-stats.herokuapp.com/?user=apaolaoliveira&theme=omni&hide_border=true&theme=dracula">
+    <br>
     <!-- To create this snake animation, you simply need to copy and paste the following link "https://github.com/yourgithubusername/yourgithubusername/blob/output/github-contribution-grid-snake.svg" into your readme file, 
        replace "yourgithubusername" with your actual GitHub username, and create an GitHub repository action using the contents of the "snake.yml" file, like the one found in this repository. -->
     <img alt="contribution-snake" width="762" src="https://github.com/apaolaoliveira/apaolaoliveira/blob/output/github-contribution-grid-snake.svg">
@@ -69,6 +71,8 @@
       <a href="" target="_blank"><img alt="my-linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> -->
   <a href="mailto:paolaoliveira.dev@gmail.com" target="_blank"><img alt="my-email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" ></a>
 </div>  
+        
+##       
   
 <div id="footer">
   <br>
@@ -76,4 +80,6 @@
   <img alt="cat-giphy" align="right" height="160" width="160" src="https://media.giphy.com/media/TVzojOaWsHelM76kWi/giphy.gif">
   <!-- Made at "https://visitcount.itsvg.in" -->
   <img alt="visit-count-icon" src="https://visitcount.itsvg.in/api?id=apaolaoliveira&label=Profile%20Views&color=5&icon=7&pretty=true.svg">
+  <br>
+  <img alt="TypingSVG-footer" src="https://readme-typing-svg.demolab.com?font=Silkscreen&duration=3000&pause=1500&color=FECDD3&vCenter=true&width=435&lines=Thanks+for+your+visit!;Have+a+great+day+%3AP">
 </div>
