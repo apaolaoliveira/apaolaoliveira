@@ -48,13 +48,13 @@
     <img alt="toplangs-stats" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apaolaoliveira&layout=compact&hide_border=true&theme=dracula"> 
     <br>
     <!-- Made this graph at "https://ashutosh00710.github.io/github-readme-activity-graph/" -->
-    <img alt="contribution-graph" height="300" width="750" src="https://github-readme-activity-graph.cyclic.app/graph?username=apaolaoliveira&bg_color=282a36&color=ff6e96&line=ff6e96&point=f3f3ed&area=true&hide_border=true">
+    <img alt="contribution-graph" height="300" width="700" src="https://github-readme-activity-graph.cyclic.app/graph?username=apaolaoliveira&bg_color=282a36&color=ff6e96&line=ff6e96&point=f3f3ed&area=true&hide_border=true">
     <br>
-    <img alt="strak-stats" height="300" width="750" src="https://github-readme-streak-stats.herokuapp.com/?user=apaolaoliveira&theme=omni&hide_border=true&theme=dracula">
+    <img alt="strak-stats" height="300" width="700" src="https://github-readme-streak-stats.herokuapp.com/?user=apaolaoliveira&theme=omni&hide_border=true&theme=dracula">
     <br>
     <!-- To create this snake animation, you simply need to copy and paste the following link "https://github.com/yourgithubusername/yourgithubusername/blob/output/github-contribution-grid-snake.svg" into your readme file, 
        replace "yourgithubusername" with your actual GitHub username, and create an GitHub repository action using the contents of the "snake.yml" file, like the one found in this repository. -->
-    <img alt="contribution-snake" width="762" src="https://github.com/apaolaoliveira/apaolaoliveira/blob/output/github-contribution-grid-snake.svg">
+    <img alt="contribution-snake" width="700" src="https://github.com/apaolaoliveira/apaolaoliveira/blob/output/github-contribution-grid-snake.svg">
   </a>
 </div>
   
@@ -64,11 +64,11 @@
     <h3>📪 <b><em>Contact me</em> if you have some projects suggestions or something to talk about</b><br><br><h3>
   <!-- Images from "https://dev.to/envoy_/150-badges-for-github-pnk" -->
   <a href="https://codepen.io/apaolaoliveira" target="_blank"><img alt="my-codepen" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
-  <a href="https://cursos.alura.com.br/user/apaolaoliveira" target="_blank"><img height="29" alt="my-alura-account" src="https://media.discordapp.net/attachments/1096481399994851330/1102482959593906246/alurabadge.png" ></a> <!-- This image I made in Canva -->
+  <a href="https://app.rocketseat.com.br/me/apaolaoliveira" target="_blank"><img height="29" alt="my-rocketseat-account"          src="https://media.discordapp.net/attachments/1096481399994851330/1110516139223691284/rocketseatLogo.png" ></a> <!-- Made in Canva -->
+  <a href="https://cursos.alura.com.br/user/apaolaoliveira" target="_blank"><img height="29" alt="my-alura-account" src="https://media.discordapp.net/attachments/1096481399994851330/1102482959593906246/alurabadge.png" ></a> <!-- Made in Canva -->
+  <a href="https://www.linkedin.com/in/paola-silva-de-oliveira-936442271/" target="_blank"><img alt="my-linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://preview.duolingo.com/profile/apaolaoliveira" target="_blank"><img alt="my-duolingo" src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white"></a>
-  <a href="https://www.instagram.com/apaolaoli/" target="_blank"><img alt="my-instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" ></a>
-  <!-- I'll keep this here for the future.
-      <a href="" target="_blank"><img alt="my-linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> -->
+  <a href="https://www.instagram.com/apaolaoli/" target="_blank"><img alt="my-instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" ></a>  
   <a href="mailto:paolaoliveira.dev@gmail.com" target="_blank"><img alt="my-email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" ></a>
 </div>  
         
