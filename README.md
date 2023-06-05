@@ -13,12 +13,12 @@
        after I send it to Discord and copied the image link -->
   <a href="#"><img alt="my-gif" align ="right" height ="160" width ="160" src="https://media.discordapp.net/attachments/1096481399994851330/1101383239588913174/gifGithub.gif" /></a>
   <ul>
-    <li> 🌸 I'm 17 years old                                                            </li>
-    <li> 🌱 Currently learning C#                                                       </li>
-    <li> 🔭 Looking for new just-for-fun projects                                       </li>
-    <li> ⚔️ Started my programming journey last year                                    </li>
-    <li> 📒 Studying online at <em>Alura</em> and <em>Academia do Programador</em>      </li>
-    <li> 🍬 Fun fact: my favorite flavor of gum to chew while programming is watermelon </li>
+    <li> 🌸 I'm 17 years old                                                                            </li>
+    <li> 🌱 Currently learning C#                                                                       </li>
+    <li> ⚔️ Started my programming journey in late last year                                            </li>
+    <li> 🔭 Looking for new just-for-fun projects in HTML, CSS and JavaScript                           </li>
+    <li> 📒 Studying online at <em>Alura</em>, <em>Rocketseat</em> and <em>Academia do Programador</em> </li>
+    <li> 🍬 Fun fact: my favorite flavor of gum to chew while programming is watermelon                 </li>
   </ul>  
  </div>
  
@@ -43,26 +43,23 @@
 ##
 
 <div id="myGithubStats">
-    <h3>💫 <b>Here are some of my <em>GitHub</em> stats </b><br><br></h3>
+    <h3>💫 <b>GitHub stats</b><br><br></h3>
   <a href="#">
-    <!-- I got this cards in "https://github.com/anuraghazra/github-readme-stats" -->  
-    <img alt="score-stats" height="150" src="https://github-readme-stats.vercel.app/api?username=apaolaoliveira&show_icons=true&hide_border=true&theme=dracula" />
-    <img alt="toplangs-stats" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apaolaoliveira&layout=compact&hide_border=true&theme=dracula" />     
+    <!-- I got this cards in "https://github.com/anuraghazra/github-readme-stats" --> 
+    <img alt="toplangs-stats" height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apaolaoliveira&layout=compact&hide_border=true&theme=dracula" />    
+    <img alt="strak-stats" height="140" src="https://github-readme-streak-stats.herokuapp.com/?user=apaolaoliveira&theme=omni&hide_border=true&theme=dracula" /> 
     <br>
     <!-- Made this graph at "https://ashutosh00710.github.io/github-readme-activity-graph/" -->
-    <img alt="contribution-graph" height="300" width="685" src="https://github-readme-activity-graph.vercel.app/graph?username=apaolaoliveira&bg_color=282a36&color=ff6e96&line=ff6e96&point=f3f3ed&area=true&hide_border=true" />
-    <br>    
-    <img alt="strak-stats" height="290" width="685" src="https://github-readme-streak-stats.herokuapp.com/?user=apaolaoliveira&theme=omni&hide_border=true&theme=dracula" />  
-    <br>
+    <img alt="contribution-graph" height="300" width="660" src="https://github-readme-activity-graph.vercel.app/graph?username=apaolaoliveira&bg_color=282a36&color=ff6e96&line=ff6e96&point=f3f3ed&area=true&hide_border=true" />  
     <!-- To create this snake animation, you simply need to copy and paste the following link "https://github.com/yourgithubusername/yourgithubusername/blob/output/github-contribution-grid-snake.svg" into your readme file, replace "yourgithubusername" with your actual GitHub username, and create an GitHub repository action using the contents of the "snake.yml" file, like the one found in this repository. -->
-    <img alt="contribution-snake" width="685" src="https://github.com/apaolaoliveira/apaolaoliveira/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="contribution-snake" width="660" src="https://github.com/apaolaoliveira/apaolaoliveira/blob/output/github-contribution-grid-snake.svg" />
   </a>
 </div>
   
 ##  
  
 <div id="mySocialMedia">
-    <h3>📪 <b><em>Contact me</em> if you have some projects suggestions or something to talk about</b><br><br><h3>
+    <h3>📪 <b>Find me at</b><br><h3>
   <!-- Images from "https://dev.to/envoy_/150-badges-for-github-pnk" -->
   <a href="https://codepen.io/apaolaoliveira" target="_blank"><img alt="my-codepen" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" /></a>
   <a href="https://app.rocketseat.com.br/me/apaolaoliveira" target="_blank"><img height="29" alt="my-rocketseat-account"          src="https://media.discordapp.net/attachments/1096481399994851330/1110516139223691284/rocketseatLogo.png" /></a> <!-- Made in Canva -->
