@@ -65,8 +65,7 @@
   <a href="https://app.rocketseat.com.br/me/apaolaoliveira" target="_blank"><img height="29" alt="my-rocketseat-account"          src="https://media.discordapp.net/attachments/1096481399994851330/1110516139223691284/rocketseatLogo.png" /></a> <!-- Made in Canva -->
   <a href="https://cursos.alura.com.br/user/apaolaoliveira" target="_blank"><img height="29" alt="my-alura-account" src="https://media.discordapp.net/attachments/1096481399994851330/1102482959593906246/alurabadge.png" /></a> <!-- Made in Canva -->
   <a href="https://www.linkedin.com/in/paola-silva-de-oliveira-936442271/" target="_blank"><img alt="my-linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://preview.duolingo.com/profile/apaolaoliveira" target="_blank"><img alt="my-duolingo" src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" /></a>
-  <a href="https://www.instagram.com/apaolaoli/" target="_blank"><img alt="my-instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>  
+  <!-- <a href="https://www.instagram.com/apaolaoli/" target="_blank"><img alt="my-instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> -->  
   <a href="mailto:paolaoliveira.dev@gmail.com" target="_blank"><img alt="my-email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>  
         
