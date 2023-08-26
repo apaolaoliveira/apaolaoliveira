@@ -5,6 +5,10 @@
     <img alt="TypingSVG-header" title="Welcome Message" src="https://readme-typing-svg.demolab.com?font=Silkscreen&duration=3000&pause=1500&color=F3BD39&width=435&lines=Hi%2C+I'm+Paola+Oliveira;Welcome+to+my+GitHub+:%29;" />
 </div>
 
+<div id="translated-readme">
+    <p align="left">Readme translations: <a align="left" alt="pt-br-readme" align="right" title="Translate readme to pt-br" href="https://github.com/apaolaoliveira/apaolaoliveira/blob/main/ReadMe-ptbr.md" target="_blank">Português</a></p>
+</div>
+
 ##
 
 <div id="aboutMe">
