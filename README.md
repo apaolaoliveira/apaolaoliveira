@@ -83,9 +83,8 @@
   <!-- Gif from "https://giphy.com/" -->  
   <img alt="my-cat-giphy" title="Celeste" align="right" height="160" width="160" src="https://media.giphy.com/media/TVzojOaWsHelM76kWi/giphy.gif" />    
     
-  <a href="#">    
-      <!-- Made at "https://visitcount.itsvg.in" -->       
-      <img alt="visit-count-icon" align="center" src="https://visitcount.itsvg.in/api?id=apaolaoliveira&label=Profile%20Views&color=5&icon=7&pretty=true.svg" />   
+  <a href="#">         
+      <img alt="visit-count" align="center" src="https://komarev.com/ghpvc/?username=apaolaoli&color=grey&style=for-the-badge" />   
       <img alt="TypingSVG-footer" title="Farewell Message" align="center" src="https://readme-typing-svg.demolab.com?font=Silkscreen&duration=3000&pause=1500&color=FECDD3&vCenter=true&width=435&lines=Thanks+for+your+visit!;Have+a+great+day+%3AP" /> 
   </a>
 </div>
