@@ -5,33 +5,41 @@
     <img alt="TypingSVG-header" title="Welcome Message" src="https://readme-typing-svg.demolab.com?font=Silkscreen&duration=3000&pause=1500&color=F3BD39&width=435&lines=Olá%2C+eu+sou+Paola+Oliveira;Bem-vindo+ao+meu+GitHub+:%29;" />
 </div>
 
+<div id="translated-readme">
+<p align="left">Traduções de ReadMe: </p>
+    
+<table>
+    <td><a align="left" alt="pt-br-readme" align="right" title="Traduzir ReadMe para português" href="https://github.com/apaolaoliveira/apaolaoliveira/blob/main/ReadMe-ptbr.md" target="_blank">Português</a></td>
+    <td><a align="left" alt="en-readme" align="right" title="Translate readme to english" href="https://github.com/apaolaoliveira/apaolaoliveira/blob/main/README.md" target="_blank">English</a></td>
+</table>
+</div>
+
 ##
 
 <div id="aboutMe">
-    <h3>🧸 <b>Sobre mim</b><br><br></h3>
+    <h3>☀️ <b>Sobre mim</b><br><br></h3>
   <!-- I made images on Pricrew "https://picrew.me/ja/image_maker/338224" and used Canva "https://www.canva.com/pt_br/criar/editor-de-gif/" to create a gif with the two images,
        after I send it to Discord and copied the image link -->
-  <a href="#"><img alt="my-gif" title="Me" align ="right" height ="160" width ="160" src="https://media.discordapp.net/attachments/1096481399994851330/1101383239588913174/gifGithub.gif" /></a>
-  <ul>
-    <li> 🌸 Tenho 17 anos de idade                                                                      </li>
-    <li> 🌱 Atualmente estou estudando para ser uma desenvolvedora Full Stack                           </li>
-    <li> ⚔️ Começei a minha jornada na programação no final do ano passado                              </li>
-    <li> 🔭 Procurando novos projetos front-end para desenvolver                                        </li>
-    <li> 📒 Estudando online <em>Alura</em>, <em>Rocketseat</em> e <em>Academia do Programador</em>     </li>
-  </ul>  
+  <a href="#"><img alt="my-gif" title="Me" align ="right" height ="120" width ="120" src="https://media.discordapp.net/attachments/1096481399994851330/1101383239588913174/gifGithub.gif" /></a>
+  
+ 🌸 Tenho 18 anos de idade                                                                    
+ 🌱 Atualmente estou estudando desenvolvimento Full Stack                           
+ ⚔️ Começei a minha jornada na programação no final do ano passado                               
+ 🔭 Procurando novos projetos front-end para desenvolver                                       
+ 📒 Estudando online <em>Alura</em>, <em>Rocketseat</em> e <em>Academia do Programador</em>     
+
  </div>
  
  ##
  
  <div id="mySkills">  
-    <h3>🛸 <b>Habilidades</b><br><br></h3>
+    <h3>🚀 <b>Habilidades</b><br><br></h3>
   <a href="#" > 
     <!-- Images from "https://devicon.dev/" -->
     <img alt="csharp-icon" title="C Sharp" align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
     <img alt="html5-icon" title="HTML5" align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img alt="css3-icon" title="CSS3" align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
     <img alt="javascript-icon" title="JavaScript" align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
-    <br><br>
     <img alt="visualstudio-icon" title="Visual Studio" align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
     <img alt="git-icon" title="Git" align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />   
     <img alt="vscode-icon" title="Visual Studio Code" align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />         
@@ -45,13 +53,8 @@
     <h3>💫 <b>Estatísticas do GitHub</b><br><br></h3>
   <a href="#">
     <!-- I got this cards in "https://github.com/anuraghazra/github-readme-stats" --> 
-    <img alt="toplangs-stats" height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apaolaoliveira&layout=compact&hide_border=true&theme=dracula" />    
-    <img alt="strak-stats" height="140" src="https://github-readme-streak-stats.herokuapp.com/?user=apaolaoliveira&theme=omni&hide_border=true&theme=dracula" /> 
-    <br>
-    <!-- Made this graph at "https://ashutosh00710.github.io/github-readme-activity-graph/" -->
-    <img alt="contribution-graph" height="300" width="660" src="https://github-readme-activity-graph.vercel.app/graph?username=apaolaoliveira&bg_color=282a36&color=ff6e96&line=ff6e96&point=f3f3ed&area=true&hide_border=true" />  
-    <!-- To create this snake animation, you simply need to copy and paste the following link "https://github.com/yourgithubusername/yourgithubusername/blob/output/github-contribution-grid-snake.svg" into your readme file, replace "yourgithubusername" with your actual GitHub username, and create an GitHub repository action using the contents of the "snake.yml" file, like the one found in this repository. 
-    <img alt="contribution-snake" width="660" src="https://github.com/apaolaoliveira/apaolaoliveira/blob/output/github-contribution-grid-snake.svg" /> -->
+    <img alt="toplangs-stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apaolaoliveira&layout=compact&hide_border=true&theme=dracula" />    
+    <img alt="strak-stats" height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=apaolaoliveira&theme=omni&hide_border=true&theme=dracula" /> 
   </a>
 </div>
   
@@ -69,12 +72,6 @@
 </div>  
         
 ##     
-        
-<div id="devQuote">
-   <br>
-   <!-- https://github.com/piyushsuthar/github-readme-quotes -->
-  <img alt="dev-quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=Qualquer%20tolo%20consegue%20escrever%20um%20código%20que%20um%20computador%20possa%20entender.%20Bons%20programadores%20escrevem%20códigos%20que%20os%20humanos%20possam%20entender.&author=Martin%20Fowler." />      
-</div>
   
 <div id="footer">  
   <br>
@@ -83,6 +80,6 @@
     
   <a href="#">         
       <img alt="visit-count" align="center" src="https://komarev.com/ghpvc/?username=apaolaoli&color=grey&style=for-the-badge" />   
-      <img alt="TypingSVG-footer" title="Farewell Message" align="center" src="https://readme-typing-svg.demolab.com?font=Silkscreen&duration=3000&pause=1500&color=FECDD3&vCenter=true&width=435&lines=Obrigada+pela+sua+visita!;Tenha+um+ótimo+dia+%3AP" /> 
+      <img alt="TypingSVG-footer" title="Farewell Message" align="center" src="https://readme-typing-svg.demolab.com?font=Silkscreen&duration=3000&pause=1500&color=ffffff&vCenter=true&width=435&lines=Obrigada+pela+sua+visita!;Tenha+um+ótimo+dia+%3AP" /> 
   </a>
 </div>
