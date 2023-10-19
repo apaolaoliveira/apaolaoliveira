@@ -5,6 +5,8 @@
     <img alt="TypingSVG-header" title="Welcome Message" src="https://readme-typing-svg.demolab.com?font=Silkscreen&duration=3000&pause=1500&color=F3BD39&width=435&lines=Hi%2C+I'm+Paola+Oliveira;Welcome+to+my+GitHub+:%29;" />
 </div>
 
+<br>
+
 <div id="translated-readme">
 <p align="left">ReadMe translations: </p>
     
@@ -17,7 +19,8 @@
 ##
 
 <div id="aboutMe">
-    <h3>☀️ <b>About me</b><br><br></h3>
+    <h3>☀️ <b>About me</b></h3>
+    <br>
   <!-- I made images on Pricrew "https://picrew.me/ja/image_maker/338224" and used Canva "https://www.canva.com/pt_br/criar/editor-de-gif/" to create a gif with the two images,
        after I send it to Discord and copied the image link -->
   <a href="#"><img alt="my-gif" title="Me" align ="right" height ="120" width ="120" src="https://media.discordapp.net/attachments/1096481399994851330/1101383239588913174/gifGithub.gif" /></a>
@@ -25,7 +28,7 @@
 🌸 I'm 18 years old                                                                          
 🌱 Currently learning full stack development                                                                  
 ⚔️ Started my programming journey in late last year                                            
-🔭 Looking for new just-for-fun projects in HTML, CSS and JavaScript                           
+🔭 Looking for new just-for-fun front-end projects                           
 📒 Studying online at <em>Alura</em>, <em>Rocketseat</em> and <em>Academia do Programador</em> 
 
  </div>
@@ -33,7 +36,8 @@
  ##
  
  <div id="mySkills">  
-    <h3>🚀 <b>Skills</b><br><br></h3>
+    <h3>🚀 <b>Stack</b></h3>
+    <br>
   <a href="#" > 
     <!-- Images from "https://devicon.dev/" -->
     <img alt="csharp-icon" title="C Sharp" align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
@@ -50,7 +54,8 @@
 ##
 
 <div id="myGithubStats">
-    <h3>💫 <b>GitHub stats</b><br><br></h3>
+    <h3>💫 <b>GitHub stats</b></h3>
+    <br>
   <a href="#">
     <!-- I got this cards in "https://github.com/anuraghazra/github-readme-stats" --> 
     <img alt="toplangs-stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=apaolaoliveira&layout=compact&hide_border=true&theme=dracula" />    
@@ -61,7 +66,8 @@
 ##  
  
 <div id="mySocialMedia">
-    <h3>📪 <b>Find me at</b><br><h3>
+    <h3>📪 <b>Find me at</b><h3>
+    <br>
   <!-- Images from "https://dev.to/envoy_/150-badges-for-github-pnk" -->
   <a href="https://codepen.io/apaolaoliveira" target="_blank"><img alt="my-codepen" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" /></a>
   <a href="https://app.rocketseat.com.br/me/apaolaoliveira" target="_blank"><img height="29" alt="my-rocketseat-account"          src="https://media.discordapp.net/attachments/1096481399994851330/1110516139223691284/rocketseatLogo.png" /></a> <!-- Made in Canva -->
@@ -75,11 +81,12 @@
   
 <div id="footer">  
   <br>
-  <!-- Gif from "https://giphy.com/" -->  
-  <img alt="my-cat-giphy" title="Celeste" align="right" height="160" width="160" src="https://media.giphy.com/media/TVzojOaWsHelM76kWi/giphy.gif" />    
     
   <a href="#">         
       <img alt="visit-count" align="center" src="https://komarev.com/ghpvc/?username=apaolaoli&color=gray&style=for-the-badge" />   
       <img alt="TypingSVG-footer" title="Farewell Message" align="center" src="https://readme-typing-svg.demolab.com?font=Silkscreen&duration=3000&pause=1500&color=ffffff&vCenter=true&width=435&lines=Thanks+for+your+visit!;Have+a+great+day+%3AP" /> 
   </a>
+  
+  <!-- Gif from "https://giphy.com/" -->  
+  <img alt="my-cat-giphy" title="Celeste" align="right" height="160" width="160" src="https://media.giphy.com/media/TVzojOaWsHelM76kWi/giphy.gif" />    
 </div>
