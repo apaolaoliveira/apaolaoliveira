@@ -17,7 +17,8 @@
 ##
 
 <div id="aboutMe">
-    <h3>☀️ <b>Sobre mim</b><br><br></h3>
+    <h3>☀️ <b>Sobre mim</b></h3>
+    <br>
   <!-- I made images on Pricrew "https://picrew.me/ja/image_maker/338224" and used Canva "https://www.canva.com/pt_br/criar/editor-de-gif/" to create a gif with the two images,
        after I send it to Discord and copied the image link -->
   <a href="#"><img alt="my-gif" title="Me" align ="right" height ="120" width ="120" src="https://media.discordapp.net/attachments/1096481399994851330/1101383239588913174/gifGithub.gif" /></a>
@@ -33,24 +34,29 @@
  ##
  
  <div id="mySkills">  
-    <h3>🚀 <b>Habilidades</b><br><br></h3>
+    <h3>🚀 <b>Habilidades</b></h3>
+    <br>
   <a href="#" > 
     <!-- Images from "https://devicon.dev/" -->
     <img alt="csharp-icon" title="C Sharp" align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
     <img alt="html5-icon" title="HTML5" align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img alt="css3-icon" title="CSS3" align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+    <img alt="typescript-icon" title="TypeScript" align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
     <img alt="javascript-icon" title="JavaScript" align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
     <img alt="visualstudio-icon" title="Visual Studio" align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-    <img alt="git-icon" title="Git" align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />   
-    <img alt="vscode-icon" title="Visual Studio Code" align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />         
+    <img alt="vscode-icon" title="Visual Studio Code" align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
     <img alt="figma-icon" title="Figma" align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+    <img alt="git-icon" title="Git" align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />   
+    <img alt="angular-icon" title="Angular" align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />  
+    <img alt="bootstrap-icon" title="Bootstrap" align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   </a>
 </div>  
  
 ##
 
 <div id="myGithubStats">
-    <h3>💫 <b>Estatísticas do GitHub</b><br><br></h3>
+    <h3>💫 <b>Estatísticas do GitHub</b></h3>
+    <br>
   <a href="#">
     <!-- I got this cards in "https://github.com/anuraghazra/github-readme-stats" --> 
     <img alt="toplangs-stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apaolaoliveira&layout=compact&hide_border=true&theme=dracula" />    
@@ -61,7 +67,8 @@
 ##  
  
 <div id="mySocialMedia">
-    <h3>📪 <b>Me encontre em</b><br><h3>
+    <h3>📪 <b>Me encontre em</b><h3>
+    <br>
   <!-- Images from "https://dev.to/envoy_/150-badges-for-github-pnk" -->
   <a href="https://codepen.io/apaolaoliveira" target="_blank"><img alt="my-codepen" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" /></a>
   <a href="https://app.rocketseat.com.br/me/apaolaoliveira" target="_blank"><img height="29" alt="my-rocketseat-account" src="https://media.discordapp.net/attachments/1096481399994851330/1110516139223691284/rocketseatLogo.png" /></a> <!-- Made in Canva -->
