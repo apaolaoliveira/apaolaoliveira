@@ -10,11 +10,10 @@
 
 <!-- I got this cards in "https://github.com/anuraghazra/github-readme-stats" --> 
 <a href="#">
-    <!-- I got this cards in "https://github.com/anuraghazra/github-readme-stats" --> 
     <img alt="strak-stats" height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=apaolaoliveira&theme=omni&hide_border=true&theme=dracula" /> 
     <img alt="toplangs-stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=apaolaoliveira&layout=compact&hide_border=true&theme=dracula" />    
 </a>
-    
+
 > Consistency is key
 
 <br>
@@ -33,7 +32,7 @@
     
 **Front-end:** `HTML` `CSS` `JavaScript` `TypeScript` `Bootstrap` `Angular`   
 
-**Back-end :** `C#` `Visual Studio`  
+**Back-end:** `C#` `Visual Studio`  
 
 **Version Control:** `Git`   
 
