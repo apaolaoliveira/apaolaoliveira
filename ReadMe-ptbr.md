@@ -44,7 +44,7 @@
  
 <!-- Imagens de "https://dev.to/envoy_/150-badges-for-github-pnk" -->
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white "Codepen")](https://codepen.io/apaolaoliveira)
-[![Rocketseat](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white "Rocketseat")](https://codepen.io/apaolaoliveira)
+[![Rocketseat](https://img.shields.io/badge/Rocketseat-8B89CC?style=for-the-badge&logo=rocketseat&logoColor=white "Rocketseat")](https://app.rocketseat.com.br/me/apaolaoliveira)
 [![Discord](https://img.shields.io/badge/@apaolaoliveira-7289DA?style=for-the-badge&logo=discord&logoColor=white "Discord")](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "LinkedIn")](https://www.linkedin.com/in/apaolaoliveira/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white "Email")](mailto:paolaoliveira.dev@gmail.com)
