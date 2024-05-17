@@ -14,7 +14,7 @@
     <img alt="toplangs-stats" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apaolaoliveira&layout=compact&hide_border=true&theme=ayu-mirage" />    
 </a>
     
-> Consistência é a chave
+> Constância é a chave
 
 <br>
 
