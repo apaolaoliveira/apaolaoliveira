@@ -36,7 +36,7 @@
 
 **Back-end:** `C#` `.NET` `Node.js` `JSON API`
 
-**Databases:** `SQL` `SQLite` `Beekepper` 
+**Databases:** `SQL` `SQLite` `Beekeeper` 
 
 **Version Control:** `Git` `GitHub`
 
