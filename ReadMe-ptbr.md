@@ -32,9 +32,11 @@
     
 **IDEs:** `Visual Studio Code` `Visual Studio` 
     
-**Front-end:** `HTML` `CSS` `JavaScript` `TypeScript` `Bootstrap` `Angular`   
+**Front-end:** `HTML` `CSS` `JavaScript` `TypeScript` `Angular` `Bootstrap` `React` `Styled Components`
 
-**Back-end:** `C#` `.NET` `SQL Server`
+**Back-end:** `C#` `.NET` `Node.js` `JSON API`
+
+**Banco de dados:** `SQL` `SQLite` `Beekeeper` 
 
 **Controle de versão:** `Git` `GitHub`
 
