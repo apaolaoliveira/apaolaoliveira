@@ -20,7 +20,7 @@
 
 ## 🍄 About me
     
-- I'm 18 years old                                                                          
+- I'm 19 years old                                                                          
 - Studying online at <em>Explorer</em> by <em>Rocketseat</em>  
 - Learning Full Stack development                                                     
 - Always coding new projects  
