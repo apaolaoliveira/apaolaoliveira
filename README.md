@@ -18,12 +18,12 @@
 
 <br>
 
-## 🍄 About me
+## 🦋 About me
     
 - I'm 19 years old                                                                          
-- Studying online at <em>Explorer</em> by <em>Rocketseat</em>  
-- Learning Full Stack development                                                     
-- Always coding new projects  
+- Coding everyday
+- Lifelong learner
+- Always sharing knowledge
 - Cats lover 🐈‍⬛
 
 <br>
