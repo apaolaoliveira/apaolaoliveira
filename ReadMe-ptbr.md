@@ -42,6 +42,8 @@
 
 **Teste:** `Postman` `Insomnia`   
 
+**Documentação:** `Docusaurus` `Swagger`
+
 <br>
 
 ## 📫 Contato
