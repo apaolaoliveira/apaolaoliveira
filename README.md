@@ -6,6 +6,16 @@
 <!-- I made it on https://readme-typing-svg.demolab.com/demo/ -->
 ![Welcome message](https://readme-typing-svg.demolab.com?font=Silkscreen&duration=3000&pause=1500&color=F3BD39&width=435&lines=Hey%2C+I'm+Paola+Oliveira;Welcome+to+my+GitHub+:%29; "Welcome Message")
 
+## 🦋 About me
+    
+Brazilian dev, [MLH Top 50 Hacker 2025](https://top.mlh.io/2025/profiles/paola-oliveira), and hackathon enthusiast. 
+
+I’ve mentored 25 students through [Code in Place](https://codeinplace.stanford.edu), organized [Codecon Summit 2025](https://codecon.dev/summit) with 1,800+ developers across Brazil, and taught kids Brazilian Sign Language through the WorldHands project. 
+
+When I’m not coding, I’m usually riding my motorcycle down Brazilian highways 🏍️ or hopping on a plane to my next adventure ✈️.  
+
+<br>
+
 ## 💫 GitHub Stats
 
 <!-- I got this cards in https://github.com/anuraghazra/github-readme-stats --> 
@@ -18,23 +28,13 @@
 
 <br>
 
-## 🦋 About me
-    
-- I'm 19 years old                                                                          
-- Coding everyday
-- Lifelong learner
-- Always sharing knowledge
-- Cats lover 🐈‍⬛
-
-<br>
-
 ## 🚀 Dev Stack
 
 **IDEs:** `Visual Studio Code` `Visual Studio` 
     
 **Front-end:** `HTML` `CSS` `JavaScript` `TypeScript` `Angular` `Bootstrap` `React` `Styled Components` `Tailwind`
 
-**Back-end:** `C#` `.NET` `Node.js` `JSON Server`
+**Back-end:** `C#` `.NET` `Node.js` `JSON Server` `Python`
 
 **Databases:** `SQL` `SQLite` `Beekeeper` 
 
@@ -49,10 +49,9 @@
 ## 📫 Contact
  
 <!-- Badges from https://dev.to/envoy_/150-badges-for-github-pnk -->
-[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white "Codepen")](https://codepen.io/apaolaoliveira)
-[![Rocketseat](https://img.shields.io/badge/Rocketseat-8B89CC?style=for-the-badge&logo=rocketseat&logoColor=white "Rocketseat")](https://app.rocketseat.com.br/me/apaolaoliveira)
-[![Discord](https://img.shields.io/badge/@apaolaoliveira.dev-7289DA?style=for-the-badge&logo=discord&logoColor=white "My Discord user")](#)
-[![MonkeyType](https://img.shields.io/badge/Monkeytype-4c89bc?style=for-the-badge&logo=monkeytype&logoColor=white "Monkeytype")](https://monkeytype.com/profile/apaolaoliveira)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "LinkedIn")](https://www.linkedin.com/in/apaolaoliveira/)
 [![Email](https://img.shields.io/badge/Gmail-ca0b4a?style=for-the-badge&logo=gmail&logoColor=white "Email")](mailto:paolaoliveira.dev@gmail.com)
+[![Devpost](https://img.shields.io/badge/Devpost-003e54?style=for-the-badge&logo=devpost&logoColor=white "Devpost")](https://devpost.com/apaolaoliveira)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "LinkedIn")](https://www.linkedin.com/in/apaolaoliveira/)
+[![MonkeyType](https://img.shields.io/badge/Monkeytype-4c89bc?style=for-the-badge&logo=monkeytype&logoColor=white "Monkeytype")](https://monkeytype.com/profile/apaolaoliveira)
+
 
